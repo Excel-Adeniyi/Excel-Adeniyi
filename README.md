@@ -89,10 +89,10 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
   margin:20px 0;
   border:1px solid #30363d;
 ">
-🎓 Academic &amp; Professional Growth ![Academic](https://img.shields.io/badge/Academic%20%26%20Professional%20Growth-0d1117?style=for-the-badge)
+🎓 Academic &amp; Professional Growth 
 
 </h2>
-
+![Academic](https://img.shields.io/badge/Academic%20%26%20Professional%20Growth-0d1117?style=for-the-badge)
 - 🎓 **MSc Computer Science** - Glasgow Caledonian University
 
 - 🧠 Research focus: **Agentic AI, multi-agent systems, AI risk & governance**
