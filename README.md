@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Excel Adeniyi
 
-I’m a **Full-Stack Software Engineer** specialising in **Flutter, Node.js, Python, and distributed systems**, with strong experience building **real-world products** across fintech, real-estate, retail, FX, and data-driven platforms.
+I’m a **Full-Stack Software Engineer** specialising in **React, Flutter, Node.js, Python, and distributed systems**, with strong experience building **real-world products** across fintech, real-estate, retail, FX, and data-driven platforms.
 
 I combine **production engineering** with **AI/ML and applied research**, focusing on systems that are scalable, measurable, and reliable.
 
@@ -8,6 +8,7 @@ I combine **production engineering** with **AI/ML and applied research**, focusi
 ---
 
 ## 🧠 What I Do Best
+- ⚛️ **Frontend Engineering:** React, TypeScript, modern component architecture, performance optimisation
 - 📱 **Mobile Engineering:** Flutter (clean architecture, state management, production apps)
 - 🌐 **Backend Engineering:** Node.js, Express, REST APIs, Microservices
 - 🐍 **Python & Data:** Python, Pandas, NumPy, Scikit-learn, Jupyter
@@ -16,6 +17,7 @@ I combine **production engineering** with **AI/ML and applied research**, focusi
 - 🗄️ **Databases:** MySQL, MongoDB
 - ⚙️ **DevOps:** Docker, Docker-Compose, Nginx, CI/CD (Jenkins)
 - 🧠 **AI Research (MSc CS – AI):** Agentic systems, RAG, AI risk & governance
+
 
 
 ---
