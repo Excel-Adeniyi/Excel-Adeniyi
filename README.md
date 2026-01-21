@@ -23,7 +23,7 @@ I combine **production engineering** with **AI/ML and applied research**, focusi
 - 🧠 **Caching & Performance:** Redis / Redis-Stack (sessions, queues, rate-limits, caching)
 - 🗄️ **Databases:** MySQL, MongoDB
 - ⚙️ **DevOps:** Docker, Docker-Compose, Nginx, CI/CD (Jenkins)
-- 🧠 **AI Research (MSc CS – AI):** Agentic systems, RAG, AI risk & governance
+- 🧠 **AI Research (MSc CS):** Agentic systems, RAG, AI risk & governance
 
 
 
