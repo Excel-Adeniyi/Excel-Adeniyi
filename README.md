@@ -77,15 +77,14 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
 ---
 
 <h2 style="
-  background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%);
+  background: linear-gradient(90deg, #0d1117, #161b22, #0d1117);
   padding:14px 18px;
   border-radius:10px;
   font-weight:700;
-  display:flex;
-  align-items:center;
-  gap:10px;
+  margin:20px 0;
+  border:1px solid #30363d;
 ">
-  🎓 Academic &amp; Professional Growth
+🎓 Academic &amp; Professional Growth
 </h2>
 
 - 🎓 **MSc Computer Science** - Glasgow Caledonian University
