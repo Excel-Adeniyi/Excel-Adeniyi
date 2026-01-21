@@ -90,7 +90,7 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
 ---
 
 ## 🤝 Let’s Connect
-- 💼 **LinkedIn:** [<add-your-link>](https://www.linkedin.com/in/excelade/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/excelade/](https://www.linkedin.com/in/excelade/)
 - 📧 **Email:** Adeniyiexcel@outlook.com
 
 ---
