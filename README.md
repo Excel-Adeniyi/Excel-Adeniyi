@@ -102,7 +102,6 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
   
 - 👨🏽‍🏫 Facilitator & mentor in grassroots tech education initiatives
 
-  ![Academic & Professional Growth](https://img.shields.io/badge/Academic%20%26%20Professional%20Growth-0d1117?style=for-the-badge&logo=academia&logoColor=white)
 
 ---
 
