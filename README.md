@@ -89,7 +89,8 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
   margin:20px 0;
   border:1px solid #30363d;
 ">
-🎓 Academic &amp; Professional Growth
+🎓 Academic &amp; Professional Growth ![Academic](https://img.shields.io/badge/Academic%20%26%20Professional%20Growth-0d1117?style=for-the-badge)
+
 </h2>
 
 - 🎓 **MSc Computer Science** - Glasgow Caledonian University
