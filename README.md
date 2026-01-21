@@ -4,6 +4,11 @@ I’m a **Full-Stack Software Engineer** specialising in **React, Flutter, Node.
 
 I combine **production engineering** with **AI/ML and applied research**, focusing on systems that are scalable, measurable, and reliable.
 
+## 🧠 Tech Stack
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
