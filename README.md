@@ -107,7 +107,7 @@ A Flutter + Node fintech platform for airtime, data, and gift-cards.
 ---
 
 ## 📊 GitHub Activity
-![Excel-Adeniyi's Stats](https://github-readme-stats.vercel.app/api?username=Excel-Adeniyi&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=0)
+![Excel-Adeniyi's Stats](github-readme-stats-7f98.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
