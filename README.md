@@ -43,11 +43,12 @@ A scalable real-estate marketplace with microservices architecture.
 
 ---
 
-### 🌍 **OpenPlanet** — Luxury Property Marketing Platform
-A high-end real-estate discovery and marketing platform.
+### 🕊️ IRM Media — Digital Ministry Platform
 
-- **Stack:** React, Node.js, SEO-optimised frontend
-- **Highlights:** Brand-focused UI, performance, and discoverability
+A comprehensive mobile application designed to digitize church resources and enhance member engagement.
+
+* **Stack:** Flutter, Dart, REST API, iOS & Android
+* **Highlights:** Searchable hymnbook, interactive Sunday School curriculum, direct prayer request system
 
 ---
 
