@@ -18,12 +18,12 @@ I combine **production engineering** with **AI/ML and applied research**, focusi
 - ⚛️ **Frontend Engineering:** React, TypeScript, modern component architecture, performance optimisation
 - 📱 **Mobile Engineering:** Flutter (clean architecture, state management, production apps)
 - 🌐 **Backend Engineering:** Node.js, Express, REST APIs, Microservices
-- 🐍 **Python & Data:** Python, Pandas, NumPy, Scikit-learn, Jupyter
-- 🤖 **AI / Machine Learning:** Supervised learning, model evaluation, optimisation, reproducible experiments
+- 🐍 **Python & Data:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Jupyter
+- 🤖 **AI & Machine Learning:** Gemini API, RAG pipelines, agentic systems, supervised learning, CNNs, model evaluation, optimisation, reproducible experiments
 - 🧠 **Caching & Performance:** Redis / Redis-Stack (sessions, queues, rate-limits, caching)
-- 🗄️ **Databases:** MySQL, MongoDB
-- ⚙️ **DevOps:** Docker, Docker-Compose, Nginx, CI/CD (Jenkins)
-- 🧠 **AI Research (MSc CS):** Agentic systems, RAG, AI risk & governance
+- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j
+- ⚙️ **DevOps & Cloud:** Docker, Docker-Compose, Kubernetes, Ansible, Jenkins CI/CD, Nginx, AWS EC2
+- 🔬 **AI Research (MSc CS):** Agentic systems, RAG, AI risk & governance, LLM pipelines, knowledge graphs
 
 
 
