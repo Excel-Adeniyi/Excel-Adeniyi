@@ -75,7 +75,7 @@ A Flutter + Node fintech platform for airtime, data and gift-cards.
 
 - 🎓 **MSc Computer Science** — Glasgow Caledonian University (expected Distinction)
 - 🧠 Dissertation: *Agentic RAG for MLOps Pipeline Documentation and Troubleshooting* — built and evaluated RAG pipelines (Llama 3.2/Ollama, ChromaDB, SentenceTransformers, Ragas) for Kubernetes/Docker/Jenkins documentation
-- 📊 Coursework: [Airbnb Utility Analysis](https://github.com/Excel-Adeniyi/airbnb_utility_analysis_agent) — machine learning project on Airbnb listings data, implementing Linear Regression and a Random Forest Regressor (Python, Jupyter)
+- 📊 Coursework: [Airbnb Utility Analysis](https://github.com/Excel-Adeniyi/airbnb_utility_analysis_agent) — machine learning project on Airbnb listings data, using Pandas for data cleaning and feature engineering, then implementing Linear Regression and a Random Forest Regressor (Python, Jupyter)
 - 🌉 Coursework: [BridgeMMS](https://github.com/Excel-Adeniyi/BridgeMMS) — terminal-based bridge management system in Python (record management, inspection tracking and scheduling, JSON-based storage)
 - 👨🏽‍🏫 Facilitator & mentor in grassroots tech education initiatives
 
