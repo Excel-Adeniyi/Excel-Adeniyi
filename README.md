@@ -20,7 +20,7 @@ I combine **production engineering** with **applied AI/ML research**, focusing o
 - 📱 **Mobile Engineering:** Flutter (clean architecture, state management, production apps)
 - 🌐 **Backend Engineering:** Node.js, Express, REST APIs, Microservices
 - 🐍 **Python:** Used in production at Darviews Solutions (recruitment platform), plus MSc AI & MLOps coursework and dissertation work
-- 🤖 **AI & Machine Learning:** Gemini API, RAG pipelines, agentic systems, supervised learning, CNNs, model evaluation, optimisation, reproducible experiments
+- 🤖 **AI & Machine Learning:** Gemini API, RAG pipelines, agentic systems, model evaluation, optimisation, reproducible experiments
 - 🧠 **Caching & Performance:** Redis / Redis-Stack (sessions, queues, rate-limits, caching)
 - 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j (coursework)
 - ⚙️ **DevOps & Cloud:** Docker, Docker-Compose, Kubernetes, Ansible, Jenkins CI/CD, Nginx, AWS EC2
