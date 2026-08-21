@@ -1,123 +1,100 @@
-# 👋 Hi, I’m Excel Adeniyi
+# 👋 Hi, I'm Excel Adeniyi
 
-I’m a **Full-Stack Software Engineer** specialising in **React, Flutter, Node.js, Python, and distributed systems**, with strong experience building **real-world products** across fintech, real-estate, retail, FX, and data-driven platforms.
+I'm a **Full-Stack Software Engineer** specialising in **React, Flutter, Node.js and distributed systems**, with production experience across recruitment-tech, fintech and real-estate platforms, plus hands-on RAG/LLM research through my MSc in Computer Science.
 
-I combine **production engineering** with **AI/ML and applied research**, focusing on systems that are scalable, measurable, and reliable.
+I combine **production engineering** with **applied AI/ML research**, focusing on systems that are scalable, measurable and reliable.
 
 ## 🧠 Tech Stack
+
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ---
 
 ## 🧠 What I Do Best
+
 - ⚛️ **Frontend Engineering:** React, TypeScript, modern component architecture, performance optimisation
 - 📱 **Mobile Engineering:** Flutter (clean architecture, state management, production apps)
 - 🌐 **Backend Engineering:** Node.js, Express, REST APIs, Microservices
-- 🐍 **Python & Data:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Jupyter
+- 🐍 **Python:** Working, coursework level (MSc AI & MLOps modules), not production depth
 - 🤖 **AI & Machine Learning:** Gemini API, RAG pipelines, agentic systems, supervised learning, CNNs, model evaluation, optimisation, reproducible experiments
 - 🧠 **Caching & Performance:** Redis / Redis-Stack (sessions, queues, rate-limits, caching)
-- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j
+- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j (coursework)
 - ⚙️ **DevOps & Cloud:** Docker, Docker-Compose, Kubernetes, Ansible, Jenkins CI/CD, Nginx, AWS EC2
-- 🔬 **AI Research (MSc CS):** Agentic systems, RAG, AI risk & governance, LLM pipelines, knowledge graphs
-
-
+- 🔬 **AI Research (MSc CS):** Agentic RAG pipeline design and evaluation, LLM orchestration
 
 ---
 
-## 🚀 Products & Platforms I’ve Built / Led
+## 🚀 Products & Platforms I've Built / Led
 
-### 🏡 **MyBuyence** — Real-Estate Platform *(Team Lead & Engineer)*
-A scalable real-estate marketplace with microservices architecture.
-
-- **Stack:** React, Node.js, MongoDB, Redis, Docker, Nginx
+### 🎯 Recruitment Platform — Confidential Client *(Full-Stack Developer & Team Lead)*
+A high-traffic recruitment platform processing 100,000+ applicants.
+- **Stack:** React, Flutter, PHP/Mezzio, Redis
 - **Highlights:**
-  - Redis-backed caching & session management
-  - Nginx load-balancing across Node services
-  - CI/CD with Jenkins
-- **Role:** Architecture, backend services, DevOps, team leadership
+  - Cut React page loads from ~30s to under 2s through rendering optimisation, pagination and lazy loading
+  - Reduced API response times from ~5s to under 1s using Redis caching and load balancing
+  - Owned the Slim-to-Mezzio migration end to end; mentored two junior developers
+- **Role:** Team lead across a five-person engineering team, 2022–2025
 
----
+### 🏡 Buyence — Real-Estate Platform *(Full-Stack Engineer & Technical Lead)*
+A real-estate startup platform, Nov 2024–Aug 2025.
+- **Stack:** React, Node.js, MongoDB/Firestore, Redis, Jenkins CI/CD, SonarQube, Docker
+- **Highlights:**
+  - Restructured the Node.js backend from MVC to Clean Architecture for easier testing and delivery
+  - Used Redis caching to speed up data access
+  - Built a full Jenkins CI/CD pipeline: checkout, dependency install, tests, SonarQube analysis, Docker build, Linux VPS deployment with restart/rollback handling
+- **Role:** Technical lead in a two-developer team
 
 ### 🕊️ IRM Media — Digital Ministry Platform
+A mobile app digitising church resources for IRM Scotland.
+- **Stack:** Flutter, Dart, WordPress-backed content
+- **Highlights:** Onboarding and dashboard screens linking hymns and Sunday School materials to WordPress-hosted pages; published to the Apple App Store and Google Play
 
-A comprehensive mobile application designed to digitize church resources and enhance member engagement.
-
-* **Stack:** Flutter, Dart, REST API, iOS & Android
-* **Highlights:** Searchable hymnbook, interactive Sunday School curriculum, direct prayer request system
-
----
-
-### 🛒 **SpotShop** — Retail Inventory & Sales System
-A retail management system designed for real businesses.
-
+### 🛒 SpotShop — Retail Inventory & Sales System
+A retail management system.
 - **Stack:** Node.js, MySQL, Redis
 - **Highlights:** Inventory tracking, transactional integrity, caching
 
----
-
-### 💱 **FlyFX** — FX & Financial Microservices
-A multi-service financial platform with heavy use of Redis-Stack.
-
+### 💱 FlyFX — FX & Financial Microservices
+A multi-service financial platform.
 - **Stack:** Node.js, Redis-Stack, MySQL, Docker
-- **Highlights:** High-performance data access, service isolation
+- **Highlights:** High-performance data access via Redis-Stack (shared caching approach with SpotShop), service isolation
+
+### 📲 RepBuy — Open-Source Fintech Platform
+A Flutter + Node fintech platform for airtime, data and gift-cards.
+- **Stack:** Flutter, TypeScript/Express, MySQL, Redis
+- **Highlights:** Paystack and Reloadly integration, JWT and Google OAuth via Passport.js, webhook handling and transaction verification
+- **Status:** Open-source, 8 GitHub stars, 15 forks
 
 ---
 
-### 📲 **RepBuy (Open-Source Fintech Platform)**
-A Flutter + Node fintech platform for airtime, data, and gift-cards.
+## 🎓 Academic & Professional Growth
 
-- **Stack:** Flutter, Node.js, MySQL, Docker
-- **Focus:** Payments, API design, mobile UX
-- **Status:** Open-source & actively evolving
-
----
-
-## 🧩 Open-Source & Templates
-- ⚡ **Vite React + TypeScript + Tailwind Template**
-- 📱 Flutter utilities & payment integrations
-- 🔧 Reusable backend & DevOps patterns
-
----
-
-<h2 style="
-  background: linear-gradient(90deg, #0d1117, #161b22, #0d1117);
-  padding:14px 18px;
-  border-radius:10px;
-  font-weight:700;
-  margin:20px 0;
-  border:1px solid #30363d;
-">
-🎓 Academic &amp; Professional Growth 
-</h2>
-
-
-
-- 🎓 **MSc Computer Science** - Glasgow Caledonian University
-
-- 🧠 Research focus: **Agentic AI, multi-agent systems, AI risk & governance**
-  
+- 🎓 **MSc Computer Science** — Glasgow Caledonian University (expected Distinction)
+- 🧠 Dissertation: *Agentic RAG for MLOps Pipeline Documentation and Troubleshooting* — built and evaluated RAG pipelines (Llama 3.2/Ollama, ChromaDB, SentenceTransformers, Ragas) for Kubernetes/Docker/Jenkins documentation
 - 👨🏽‍🏫 Facilitator & mentor in grassroots tech education initiatives
-
 
 ---
 
 ## 📊 GitHub Activity
-![Excel-Adeniyi's Stats](https://github-readme-stats-bpqy.vercel.app/api?username=Excel-Adeniyi&show_icons=true&hide_title=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats-bpqy.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+![Excel-Adeniyi's Stats](https://github-readme-stats-bpqy.vercel.app/api?username=Excel-Adeniyi&show_icons=true&hide_title=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-bpqy.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
+
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/excelade/](https://www.linkedin.com/in/excelade/)
-- 📧 **Email:** Adeniyiexcel@outlook.com
+- 📧 **Email:** adeniyiexcel@outlook.com
 
 ---
 
 ### 🧠 Philosophy
-> “Build systems that are clean, scalable, and useful — then make them better.”
 
-If you’re building something interesting, I’m always open to collaborating.
+> "Build systems that are clean, scalable, and useful, then make them better."
+
+If you're building something interesting, I'm always open to collaborating.
