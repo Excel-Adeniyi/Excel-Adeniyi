@@ -19,7 +19,7 @@ I combine **production engineering** with **applied AI/ML research**, focusing o
 - ⚛️ **Frontend Engineering:** React, TypeScript, modern component architecture, performance optimisation
 - 📱 **Mobile Engineering:** Flutter (clean architecture, state management, production apps)
 - 🌐 **Backend Engineering:** Node.js, Express, REST APIs, Microservices
-- 🐍 **Python:** Working, coursework level (MSc AI & MLOps modules), not production depth
+- 🐍 **Python:** Used in production at Darviews Solutions (recruitment platform), plus MSc AI & MLOps coursework and dissertation work
 - 🤖 **AI & Machine Learning:** Gemini API, RAG pipelines, agentic systems, supervised learning, CNNs, model evaluation, optimisation, reproducible experiments
 - 🧠 **Caching & Performance:** Redis / Redis-Stack (sessions, queues, rate-limits, caching)
 - 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j (coursework)
@@ -32,7 +32,7 @@ I combine **production engineering** with **applied AI/ML research**, focusing o
 
 ### 🎯 Recruitment Platform — Confidential Client *(Full-Stack Developer & Team Lead)*
 A high-traffic recruitment platform processing 100,000+ applicants.
-- **Stack:** React, Flutter, PHP/Mezzio, Redis
+- **Stack:** React, Flutter, PHP/Mezzio, Python, Redis
 - **Highlights:**
   - Cut React page loads from ~30s to under 2s through rendering optimisation, pagination and lazy loading
   - Reduced API response times from ~5s to under 1s using Redis caching and load balancing
@@ -75,6 +75,8 @@ A Flutter + Node fintech platform for airtime, data and gift-cards.
 
 - 🎓 **MSc Computer Science** — Glasgow Caledonian University (expected Distinction)
 - 🧠 Dissertation: *Agentic RAG for MLOps Pipeline Documentation and Troubleshooting* — built and evaluated RAG pipelines (Llama 3.2/Ollama, ChromaDB, SentenceTransformers, Ragas) for Kubernetes/Docker/Jenkins documentation
+- 📊 Coursework: [Airbnb Utility Analysis](https://github.com/Excel-Adeniyi/airbnb_utility_analysis_agent) — Python regression modelling and analysis on Airbnb listings data (Jupyter)
+- 🌉 Coursework: [BridgeMMS](https://github.com/Excel-Adeniyi/BridgeMMS) — terminal-based bridge management system in Python (record management, inspection tracking and scheduling, JSON-based storage)
 - 👨🏽‍🏫 Facilitator & mentor in grassroots tech education initiatives
 
 ---
