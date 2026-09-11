@@ -89,7 +89,7 @@ Designed and built the official OneWorship Scotland website, creating a central 
 ---
 
 ## 📊 GitHub Activity
-![Top Languages](https://github-readme-stats-bpqy.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+![Top Languages](https://github-readme-stats-bpqy.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400)
 
 ---
 
