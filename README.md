@@ -69,11 +69,18 @@ A Flutter + Node fintech platform for airtime, data and gift-cards.
 - **Highlights:** Paystack and Reloadly integration, JWT and Google OAuth via Passport.js, webhook handling and transaction verification
 - **Status:** Open-source, 8 GitHub stars, 15 forks
 
+### 🎶 OneWorship Scotland — Worship Community Website
+
+Designed and built the official OneWorship Scotland website, creating a central online presence for its worship events, community activities and ministry updates.
+
+- **Stack:** React, TypeScript (TSX), Nodemailer
+- **Highlights:** Developed a responsive, reusable component-based interface and optimised the experience across desktop and mobile devices
+- **Role:** Frontend Developer
 ---
 
 ## 🎓 Academic & Professional Growth
 
-- 🎓 **MSc Computer Science** — Glasgow Caledonian University (expected Distinction)
+- 🎓 **MSc Computer Science** — Glasgow Caledonian University (Merit)
 - 🧠 Dissertation: *Agentic RAG for MLOps Pipeline Documentation and Troubleshooting* — built and evaluated RAG pipelines (Llama 3.2/Ollama, ChromaDB, SentenceTransformers, Ragas) for Kubernetes/Docker/Jenkins documentation
 - 📊 Coursework: [Airbnb Utility Analysis](https://github.com/Excel-Adeniyi/airbnb_utility_analysis_agent) — machine learning project on Airbnb listings data, using Pandas for data cleaning and feature engineering, then implementing Linear Regression and a Random Forest Regressor (Python, Jupyter)
 - 🌉 Coursework: [BridgeMMS](https://github.com/Excel-Adeniyi/BridgeMMS) — terminal-based bridge management system in Python (record management, inspection tracking and scheduling, JSON-based storage)
