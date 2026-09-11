@@ -48,10 +48,20 @@ A real-estate startup platform, Nov 2024–Aug 2025.
   - Built a full Jenkins CI/CD pipeline: checkout, dependency install, tests, SonarQube analysis, Docker build, Linux VPS deployment with restart/rollback handling
 - **Role:** Technical lead in a two-developer team
 
-### 🕊️ IRM Media — Digital Ministry Platform
+### 🕊️ [IRM Media — Digital Ministry Platform](https://apps.apple.com/gb/app/irm-media/id6758319790)
+
 A mobile app digitising church resources for IRM Scotland.
-- **Stack:** Flutter, Dart, WordPress-backed content
-- **Highlights:** Onboarding and dashboard screens linking hymns and Sunday School materials to WordPress-hosted pages; published to the Apple App Store and Google Play
+
+- **Stack:** Flutter, Dart, WordPress
+- **Highlights:** Built onboarding and dashboard screens connecting users to hymns and Sunday School resources; published on the Apple App Store and Google Play
+
+### 🎶 [OneWorship Scotland — Worship Community Website](https://oneworshipscotland.com)
+
+Designed and built the official OneWorship Scotland website as a central platform for worship events, community activities and ministry updates.
+
+- **Stack:** React, TypeScript (TSX), Node.js, Nodemailer
+- **Highlights:** Developed a responsive, component-based interface and integrated Nodemailer to handle website enquiries and email notifications
+- **Role:** Full-Stack Developer
 
 ### 🛒 SpotShop — Retail Inventory & Sales System
 A retail management system.
@@ -68,14 +78,6 @@ A Flutter + Node fintech platform for airtime, data and gift-cards.
 - **Stack:** Flutter, TypeScript/Express, MySQL, Redis
 - **Highlights:** Paystack and Reloadly integration, JWT and Google OAuth via Passport.js, webhook handling and transaction verification
 - **Status:** Open-source, 8 GitHub stars, 15 forks
-
-### 🎶 OneWorship Scotland — Worship Community Website
-
-Designed and built the official OneWorship Scotland website, creating a central online presence for its worship events, community activities and ministry updates.
-
-- **Stack:** React, TypeScript (TSX), Nodemailer
-- **Highlights:** Developed a responsive, reusable component-based interface and optimised the experience across desktop and mobile devices
-- **Role:** Frontend Developer
 ---
 
 ## 🎓 Academic & Professional Growth
@@ -89,6 +91,7 @@ Designed and built the official OneWorship Scotland website, creating a central 
 ---
 
 ## 📊 GitHub Activity
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Excel-Adeniyi&rank_icon=github&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=Excel-Adeniyi&rank_icon=github&include_all_commits=true&theme=swift)
 ![Top Languages](https://github-readme-stats-bpqy.vercel.app/api/top-langs/?username=Excel-Adeniyi&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400)
 
 ---
